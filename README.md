@@ -6,6 +6,7 @@ Repository that contains the European Portuguese variants of the WiC and WSC dat
 
 - https://github.com/marcospln/homonymy_acl21/tree/main
 - https://hal.science/hal-03109961
+- Dataset Augmentation 
 
  
 # Winograd Schema Challenge (WSC)
