@@ -1,0 +1,82 @@
+sentence,noun,pronoun,label
+"João prometeu a André que se ia embora e, uma hora depois, ele partiu.",André,ele,0
+A Ana foi muito melhor do que a sua amiga Luciana na prova porque ela tinha estudado muito.,Luciana,ela,0
+O André deu metade do seu prato ao João porque ele estava com fome.,João,ele,1
+O quadro na sala de estar do Marcos mostra um carvalho. Ele está à direita da estante de livros.,O quadro,Ele,1
+"Nós fomos para a lagoa, porque um tubarão havia sido avistado na praia, logo ela era um lugar mais seguro para nadar.",A praia,ela,0
+Jéssica certificou-se de agradecer Vanessa por toda a ajuda que ela havia oferecido.,Jéssica,ela,0
+O Bruno colapsou na calçada. Logo viu o Carlos a vir ajudá-lo. Ele estava muito doente.,Carlos,Ele,0
+Fernanda não passou a bola para Juliana apesar de ela ter visto que ela estava livre.,Juliana,ela,0
+"Quando Vítor deixou cair o gelado dele, o Tiago riu-se, depois o pai deu-lhe um olhar olhar severo.",Vitor,ele,0
+"Os pais da Patrícia chegaram a casa e encontraram-na a ter relações sexuais com o seu namorado, Paulo. Eles ficaram envergonhados com isso.",Os pais da Patrícia,Eles,0
+"Gabriel conseguiu bilhetes de graça para a peça, mas ele deu-los ao Manuel, porque ele estava particularmente interessado em assistir a ela.",Manuel,ele,1
+"Gabriel conseguiu bilhetes de graça para a peça, mas ele deu-los ao Manuel, porque ele não estava particularmente interessado em assistir a ela.",Manuel,ele,0
+"Eu tentei fazer uma pintura de um pomar, com limões nos limoeiros, mas eles acabaram por aparecer mais com lâmpadas.",Os limoeiros,eles,0
+"Tínhamos planeado colocar cópias da nossa newsletter em todas as cadeiras do auditório, mas havia muitas delas .",cadeiras,delas,1
+O Guilherme acalmou o Luís porque ele estava muito transtornado.,Luís,ele,1
+"O Francisco é a única pessoa viva que se lembra do meu pai quando era bebé. Quando o Francisco viu o meu pai pela primeira vez, ele tinha doze meses de idade.",Meu pai,ele,1
+Eu servi o refrigerante no copo até que ele ficasse cheio.,O refrigerante,ele,0
+"O Francisco ficou a ver televisão enquanto o Gabriel foi fazer as compras. Passada uma hora, ele regressou.",Francisco,ele,0
+"O gato estava deitado próximo ao buraco esperando pelo rato, mas ele estava muito impaciente.",O rato,ele,0
+"O Samuel puxou um banco para o piano, mas ele estava partido, então ele teve que ficar em pé.",O piano,ele,0
+O homem levantou o menino sobre a sua cabeça.,O homem,sua,1
+"A Beatriz conversou com a Daniela, tirando a sua concentração.",Beatriz,sua,0
+A mãe da Fernanda tinha morrido há muitos anos e a educação dela estava a ser assegurada por uma excelente governanta.,A mãe da Fernanda,dela,0
+"O Samuel teve aulas de francês com o António, porque ele era conhecido por falar fluentemente.",António,ele,1
+"O Francisco é a única pessoa viva que se lembra do meu pai quando era bebé. Quando o Francisco viu o meu pai pela primeira vez, ele tinha doze anos de idade.",Meu pai,ele,0
+O homem não conseguia erguer o seu filho porque ele era muito fraco.,O homem,ele,1
+"Eu enfiei uma agulha através de uma cenoura. Quando eu removi a agulha, ela tinha um buraco.",A cenoura,ela,1
+O pai carregava o menino dormindo ao seu colo,O pai,seu,1
+"Francisco deveria ter ligado a máquina de lavar louça, mas ele adiou, porque queria assistir TV. Por fim o programa estava chato, então ele mudou de ideia e desligou ela.",A máquina de lavar,ela,0
+O sapo comeu o mosquito. Ele estava saboroso.,O sapo,Ele,0
+"Francisco deveria ter ligado a máquina de lavar louça, mas ele adiou, porque queria assistir TV. Por fim o programa estava chato, então ele mudou de ideia e ligou ela.",A TV,ela,0
+"O Francisco é a única pessoa viva que se lembra do meu pai quando era bebé. Quando o Francisco viu o meu pai pela primeira vez, ele tinha doze anos de idade.",Francisco,ele,1
+"Na competição Loebner, os juízes não conseguiam descobrir quais participantes eram os chatbots porque eles eram muito estúpidos.",Os chatbots,eles,0
+João foi contratado por André para cuidar dele.,João,dele,0
+A mãe da Fernanda tinha morrido há muitos anos e a casa dela estava a ser assegurada por uma excelente governanta.,A mãe da Fernanda,dela,1
+"O caminho até ao lago estava interditado, então nós não podíamos usar ele.",O lago,ele,0
+"Vasco disse "" Check "" a Rafael enquanto ele tomava o seu bispo.",Rafael,seu,1
+"A Gabriela bateu à porta, e Vanessa atendeu-a. Ela convidou-a para sair.",Vanessa,Ela,0
+A Maria pegou na sua flauta e tocou uma das suas peças favoritas. Ela ama ela desde criança.,A peça,ela,1
+Os bombeiros chegaram antes dos polícias porque eles estavam vindo de muito longe.,Os bombeiros,eles,0
+Os arqueólogos concluíram que humanos viveram em Laputa há 20.000 anos. Eles caçavam veados nas margens do rio.,Humanos pré-históricos,Eles,1
+Tenho a certeza que o meu mapa vai mostrar esse prédio; ele é muito bom.,O mapa,ele,1
+"Eu estava a tentar abrir o cadeado com a chave, mas alguém havia preenchido a fechadura com pastilha elástica, e eu não conseguia remover ela .",A chave,ela,0
+"O Jackson foi fortemente influenciado por Arnold, apesar de ele ter vivido dois séculos mais tarde.",Jackson,ele,1
+A Dra. Larissa informou Sofia que ela se tinha reformado e apresentou-lhe várias opções para continuar o seu tratamento.,A Dra. Larissa,ela,1
+Guilherme fez sinal ao barman e apontou para a sua chave da casa de banho.,O barman,sua,1
+A Amanda deu à luz uma menina no mês passado. Ela é uma mulher encantadora.,A filha da Amanda,Ela,0
+Fernanda não passou a bola para Juliana apesar de ela ter visto que ela estava livre.,Fernanda,ela,1
+"A Maria acomodou a sua filha Amanda na cama, para que ela pudesse trabalhar.",Maria,ela,1
+Madonna demitiu a sua treinadora porque ela dormiu com o namorado dela.,Madonna,ela,0
+O Bruno pagou os estudos superiores do Fábio. Ele é muito generoso.,Fábio,Ele,0
+Eu pus a asa de borboleta sobre a mesa e ela partiu-se.,A mesa,ela,0
+"Eu estava a tentar abrir o cadeado com a chave, mas alguém havia preenchido a fechadura com pastilha elástica, e eu não conseguia remover ela .",A pastilha elástica,ela,1
+"Os pais da Patrícia chegaram a casa e encontraram-na a ter relações sexuais com o seu namorado, Paulo. Eles ficaram envergonhados com isso.",Patrícia e Paulo,Eles,1
+A biografia de Samuel Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que ele enfrentou na sua pesquisa.,Goodman,ele,1
+"Eu tentei fazer uma pintura de um pomar, com limões nos limoeiros, mas eles acabaram por aparecer mais com lâmpadas.",Os limões,eles,1
+"A Alice procurou pela sua amiga Flávia na multidão. Dado que ela sempre tem muita sorte, Alice encontrou-a rapidamente.",Alice,ela,1
+A mãe da Fernanda tinha morrido há muitos anos e a educação dela estava a ser assegurada por uma excelente governanta.,Fernanda,dela,1
+A medalha não cabe na maleta porque ela é muito grande.,a medalha,ela,1
+"O advogado fez uma pergunta ao acusado, mas ele estava relutante em responder-la.",O advogado,ele,0
+"Paulo tentou ligar para o Gabriel, mas ele não estava disponível.",Gabriel,ele,1
+O Ricardo explicou a sua teoria ao Marcos mas ele não conseguiu convencê-lo.,Ricardo,ele,1
+A Dra. Larissa informou a Sofia que ela tinha cancro e apresentou-lhe várias opções para continuar o seu tratamento.,A Dra. Larissa,ela,0
+"Toda a gente adorou os biscoitos de aveia; apenas algumas pessoas gostaram do biscoito de chocolate. Para a próxima vez, devíamos fazer mais deles.",Os biscoitos de chocolate,deles,0
+O Vasco atirou a mochila para o Raimundo depois de ele chegar ao fundo das escadas.,Raimundo,ele,1
+O Guilherme gritou com o Luís porque ele estava muito transtornado.,Guilherme,ele,1
+"O cão perseguiu o gato, que correu até a árvore. Ele esperou lá em cima.",O cão,Ele,0
+"Na competição Loebner, os juízes não conseguiam descobrir quais participantes eram os chatbots porque eles eram muito estúpidos.",Os juízes,eles,1
+O Rodrigo segue o exemplo do Francisco em tudo. Ele influencia-o imensamente.,Rodrigo,Ele,0
+"Vasco disse "" Check "" a Rafael enquanto ele movia o seu bispo.",Vasco,seu,1
+O pai carregava o menino dormindo no seu berço.,O menino,seu,1
+A Ana foi muito pior do que a sua amiga Luciana na prova porque ela tinha estudado muito.,Ana,ela,0
+"O nome da atriz costumava ser Terpsichore, mas ela mudou-o para Tina há alguns anos, porque percebeu que ele era muito difícil de pronunciar.",Terpsichore,ele,1
+"A Adriana perguntou à Maria a que horas a biblioteca fechava, mas ela tinha-se esquecido.",Adriana,ela,0
+Há uma fenda na parede. Consegue-se ver o jardim por detrás dela.,A fenda,dela,0
+"O caminho até ao lago estava interditado, então nós não podíamos alcançar ele.",O lago,ele,1
+"O Bruno pagou os estudos superiores do Fábio, mas agora o Fábio age como se isso nunca tivesse acontecido. Ele está muito magoado.",Bruno,Ele,1
+"O Francisco ficou a ver televisão enquanto o Gabriel foi fazer as compras. Passada uma hora, ele levantou-se.",Francisco,ele,1
+Tenho a certeza que o meu mapa vai mostrar esse prédio; ele é muito famoso.,O mapa,ele,0
+"Durante um jogo de apanhada, Eduardo fugiu do Lucas porque ""estava com ele "".",Lucas,ele,1
+"Em julho, Kamtchatka declarou guerra contra Yakutsk. Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior, eles foram vitoriosos em semanas.",Kamtchatka,eles,0
