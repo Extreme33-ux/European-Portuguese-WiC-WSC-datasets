@@ -4,8 +4,8 @@ Repository that contains the European Portuguese variants of the WiC and WSC dat
 # Word-in-Context (WiC)
  The **Word-in-Context (WiC)** task tests a computer’s ability to understand the meaning of a word in different sentences. The goal is to decide if the same word in two different sentences has the same meaning or not.  This dataset was obtained through the following sources/methods:
 
-- [Homonymy and synonymy in context](https://github.com/marcospln/homonymy_acl21/tree/main) [[1]](1)
-- [Dicionário gramatical de verbos do português](https://hal.science/hal-03109961) [[2]](2)
+- [Homonymy and synonymy in context](https://github.com/marcospln/homonymy_acl21/tree/main) [1]
+- [Dicionário gramatical de verbos do português](https://hal.science/hal-03109961) [2]
 - Dataset Augmentation
 
  
@@ -13,7 +13,7 @@ Repository that contains the European Portuguese variants of the WiC and WSC dat
  The **Winograd Schema Challenge (WSC)** is a task that tests a computer's ability to understand language by determining what a pronoun refers to in a sentence. This dataset was obtained through the following source:
 
 - [Portuguese Winograd Schema Challenge
-](https://github.com/gabimelo/portuguese_wsc) [[3]](3)
+](https://github.com/gabimelo/portuguese_wsc) [3]
 
 which was then translated manually into the European Portuguese variant.
 
