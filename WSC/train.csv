@@ -1,0 +1,377 @@
+sentence,noun,pronoun,label
+"O caminho até ao lago estava interditado, então nós não podíamos usar ele.",O caminho,ele,1
+Fernanda não passou a bola para Juliana apesar de ela estar livre.,Juliana,ela,1
+O João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele era muito impressionante.,João,Ele,0
+Os polícias prenderam todos os membros do gangue. Eles estavam a tentar impedir o tráfico de droga no bairro.,Os polícias,Eles,1
+"O Samuel partiu as duas pernas e agora anda com muletas. Mas daqui a cerca de um mês, elas devem estar melhores.",As pernas,elas,1
+A Gabriela deu doces para a Jéssica porque ela estava com fome.,Gabriela,ela,0
+"O Francisco e a Alice tinham casacos muito quentes, mas eles não eram suficientes para o frio do Alasca.",Os casacos,eles,1
+As raposas estão entrando à noite e atacam as galinhas. Elas tornaram-se muito ousadas.,As galinhas,Elas,0
+O André deu o gameboy ao João porque a vez dele tinha acabado.,João,dele,0
+A Ana foi muito melhor do que a sua amiga Luciana na prova porque ela tinha estudado muito.,Ana,ela,1
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e ele de fato ficava muito melhor com outro abaixo dele.,O desenho da Tina,ele,0
+"O Fernando visitou o túmulo de Leonardo em 1765. Nessa data, fazia cinco anos que ele estava a viajar.",Fernando,ele,1
+"Quando os apoiantes do projeto de lei chegaram à Câmara Municipal, ficaram surpreendidos ao encontrar a sala cheia de opositores. Eles estavam em grande minoria.",Os apoiantes,Eles,1
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e ele de fato ficava muito melhor com outro abaixo dele.,O desenho do Samuel,ele,1
+Este livro introduziu Shakespeare a Ovídio; ele era uma excelente seleção de sua escrita.,Ovídio,sua,1
+O ralo está entupido com cabelo. Ele tem que ser removido.,O cabelo,Ele,1
+O sapo comeu o mosquito. Ele estava saboroso.,O mosquito,Ele,1
+"O Fernando visitou o túmulo de Leonardo em 1765. Nessa data, fazia cinco anos que ele estava a viajar.",Leonardo,ele,0
+Eu servi o refrigerante no copo até que ele ficasse vazio.,O refrigerante,ele,1
+"Não consegui encontrar uma colher, por isso tentei usar um lápis para mexer o café. Mas acabou por ser uma má ideia, porque ele ficou cheio de café.",O café,ele,0
+O Felipe estava chateado com o Vasco porque a torradeira que ele lhe tinha vendido não funcionava,Vasco,ele,1
+Este livro introduziu Shakespeare a Goethe; ele era uma excelente seleção de sua escrita.,Shakespeare,sua,1
+O Jorge vendeu a sua casa e comprou uma nova a alguns quilómetros de distância. Vai mudar-se para ela na quinta-feira.,A velha casa,ela,0
+"O Samuel puxou um banco para o piano, mas ele estava partido, então ele teve que cantar.",O piano,ele,1
+O João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele era muito impressionante.,O malabarista,Ele,1
+Felipe sentiu-se vingado quando o seu rival de longa data André revelou que ele era o vencedor da competição.,Felipe,ele,1
+As raposas estão entrando à noite e atacam as galinhas. Elas tornaram-se muito ousadas.,As raposas,Elas,1
+A Carolina acreditava que a Rebeca lamentava que ela tinha roubado o relógio.,Carolina,ela,0
+Madonna demitiu a sua treinadora porque ela dormiu com o namorado dela.,A treinadora,ela,1
+A biografia de Samuel Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que ele enfrentou na sua infância.,Xenophanes,ele,1
+"O Samuel tentou pintar um quadro de pastoras com ovelhas, mas elas acabaram por se parecer mais com jogadores de golfe.",As ovelhas,elas,0
+"A Alice procurou pela sua amiga Flávia na multidão. Dado que ela sempre usa um turbante vermelho, Alice encontrou-a rapidamente.",Flávia,ela,1
+Eu pus uma mochila pesada sobre a mesa e ela partiu-se.,A mochila pesada,ela,0
+Olha! Está um tubarão a nadar mesmo debaixo daquele pato! É melhor ele fugir para um lugar seguro rápido!,O tubarão,ele,0
+"A Gabriela bateu à porta, e Vanessa atendeu-a. Ela convidou-a a entrar.",Gabriela,Ela,0
+"Eu vi o Guilherme gritando com um homem que vestia uma farda e tinha uma grande barba ruiva. Eu não sei quem ele era, mas ele parecia muito chateado.",o cara que vestia uma farda,ele,1
+"Enquanto Mateus carregava Vitor pela longa escada em espiral, as suas pernas balançavam.",Mateus,suas,0
+"Os jornalistas entrevistaram as estrelas do novo filme. Como eles eram muito cooperantes, a entrevista prolongou-se durante muito tempo.",Os astros,Eles,1
+"A Gabriela bateu à porta, e Vanessa atendeu-a. Ela convidou-a para sair.",Gabriela,Ela,1
+O homem não conseguia erguer o seu filho porque ele era muito pesado.,O homem,ele,0
+"Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro, então ela contou pra ela a respeito.",Adriana,ela,0
+O Felipe estava chateado com o Vasco porque a torradeira que ele lhe tinha comprado não funcionava.,Vasco,ele,0
+O cliente entrou no banco e esfaqueou um dos caixas. Ele foi levado imediatamente para a esquadra da polícia..,O cliente,Ele,1
+O André deu o gameboy ao João porque era a vez dele.,João,dele,1
+Eu pus o bolo no frigorífico. Ele tem muitas sobras.,O frigorífico,Ele,1
+"O Daniel ficou no banco de trás enquanto que o André foi para a frente porque o ""Eu primeiro!"" dele foi lento.",André,dele,0
+"O Samuel tentou pintar um quadro de pastoras com ovelhas, mas elas acabaram por se parecer mais com cães.",As pastoras,elas,0
+"O Bruno pagou os estudos superiores do Fábio, mas agora o Fábio age como se isso nunca tivesse acontecido. Ele está muito magoado.",Fábio,Ele,0
+"O Francisco e a Alice tinham casacos muito quentes, mas eles não estavam preparados para o frio do Alasca.",Os casacos,eles,0
+Há uma fenda na parede. Consegue-se ver o jardim através dela.,A fenda,dela,1
+Este livro introduziu Shakespeare a Goethe; ele foi uma grande influência na sua escrita.,Shakespeare,sua,0
+"O Bruno estava jogando às cartas com António e estava muito na frente no placar. Se António não tivesse tido uma sequência de jogadas de sorte, ele teria perdido.",António,ele,1
+"O Jackson foi fortemente influenciado por Arnold, apesar de ele ter vivido dois séculos antes.",Arnold,ele,1
+A Vanessa sabe tudo sobre os problemas pessoais da Adriana porque ela é indiscreta.,Adriana,ela,1
+"O gato estava deitado próximo ao buraco esperando pelo rato, mas ele estava muito impaciente.",O gato,ele,1
+"O cão perseguiu o gato, que correu até a árvore. Ele esperou lá em baixo.",O cão,Ele,1
+Jéssica certificou-se de agradecer Vanessa por toda a ajuda que ela havia recebido.,Vanessa,ela,0
+Jorge pagou ao detetive depois de ele ter entregue o relatório final sobre o caso.,Jorge,ele,0
+O Pedro tem inveja do Marcelo porque ele é muito bem sucedido.,Pedro,ele,0
+O sapo comeu o mosquito. Ele estava com fome,O sapo,Ele,1
+"Gabriel conseguiu bilhetes de graça para a peça, mas ele deu-los ao Manuel, mesmo ele estando particularmente interessado em assistir a ela.",Manuel,ele,0
+"O Samuel teve aulas de francês com o António, porque ele estava ansioso para falar fluentemente.",António,ele,0
+"A luz do sol tinha sido bloqueada por uma grande nuvem durante a manhã toda, mas por sorte, na hora em que o piquenique começou, ela foi embora.",A nuvem,ela,1
+"A Gabriela bateu à porta, e Vanessa atendeu-a. Ela convidou-a a entrar.",Vanessa,Ela,1
+"O meu encontro começava às 4:00 e eu precisava apanhar o comboio às 4:30, portanto não havia muito tempo. Felizmente, ele foi breve, por isso tudo se resolveu.",O comboio,ele,0
+"O Francisco é a única pessoa viva que se lembra do meu pai quando era bebé. Quando o Francisco viu o meu pai pela primeira vez, ele tinha doze meses de idade.",Francisco,ele,0
+Este livro introduziu Shakespeare a Goethe; ele era uma excelente seleção de sua escrita.,Goethe,sua,0
+Este livro introduziu Shakespeare a Ovídio; ele foi uma grande influência na sua escrita.,Shakespeare,sua,1
+"Vasco disse "" Check "" a Rafael enquanto ele movia o seu bispo.",Rafael,seu,0
+"Quando os apoiantes do projeto de lei chegaram à Câmara Municipal, ficaram surpreendidos ao encontrar a sala cheia de opositores. Eles estavam em grande maioria.",Os opositores,Eles,1
+Kirilov cedeu a presidência a Shatov porque ele era mais popular.,Shatov,ele,1
+"Paulo tentou ligar para o Gabriel, mas ele não estava disponível.",Paulo,ele,0
+"Enquanto Mateus carregava Vitor pela longa escada em espiral, as suas pernas doíam.",Vitor,suas,0
+"O Samuel teve aulas de francês com o António, porque ele era conhecido por falar fluentemente.",Samuel,ele,0
+A Vanessa sabe tudo sobre os problemas pessoais da Adriana porque ela é intrometida.,Adriana,ela,0
+"O advogado fez uma pergunta ao acusado, mas ele estava relutante em repetir-la.",O advogado,ele,1
+"Tínhamos planeado colocar cópias da nossa newsletter em todas as cadeiras do auditório, mas não havia o suficiente delas .",cópias da newsletter,delas,1
+Olha! Está um peixinho a nadar mesmo debaixo daquele pato! É melhor ele fugir para um lugar seguro rápido!,O peixinho,ele,1
+"Os alunos mais velhos estavam a fazer bullying aos mais jovens, então nós protegemos eles .",Os alunos mais jovens,eles,1
+O André deu metade do seu prato ao João porque ele estava cheio.,André,ele,1
+A Gabriela bateu à porta da Vanessa mas ela não atendeu.,Gabriela,ela,0
+"Durante a apresentação a céu aberto, começou a chover, mas ela continuou até às 10.",A chuva,ela,0
+"O Vasco deu boleia ao Rafael para a escola, para que ele não tivesse de ir a pé.",Rafael,ele,1
+"A Bruna não ficou zangada com a Márcia, que a tinha deixado de fora, porque ela parou e contou até dez.",Bruna,ela,1
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e ele de fato ficava muito melhor com outro acima dele.,O desenho do Samuel,ele,0
+"O nome da atriz costumava ser Terpsichore, mas ela mudou-o para Tina há alguns anos, porque percebeu que ele era mais fácil de pronunciar.",Terpsichore,ele,0
+Guilherme fez sinal ao barman e apontou para a sua taça vazia.,O barman,sua,0
+A Sara pediu um livro emprestado à biblioteca porque ela precisa dele para um artigo no qual ela está a trabalhar. Ela lê ele quando chega do trabalho.,O livro,ele,1
+Os polícias prenderam todos os membros do gangue. Eles estavam a tentar fazer tráfico de drogas no bairro.,Os membros do gangue,Eles,1
+"Eu enfiei uma agulha através de uma cenoura. Quando eu removi a agulha, ela tinha um buraco.",A agulha,ela,0
+"O Francisco e a Alice tinham casacos muito quentes, mas eles não eram suficientes para o frio do Alasca.",Francisco e Alice,eles,0
+"O nome da atriz costumava ser Terpsichore, mas ela mudou-o para Tina há alguns anos, porque percebeu que ele era mais fácil de pronunciar.",Tina,ele,1
+Kirilov cedeu a presidência a Shatov porque ele era menos popular.,Shatov,ele,0
+A medalha não cabe na maleta porque ela é muito grande.,a maleta,ela,0
+"O nome da atriz costumava ser Terpsichore, mas ela mudou-o para Tina há alguns anos, porque percebeu que ele era muito difícil de pronunciar.",Tina,ele,0
+O João contratou o André para cuidar dele.,João,dele,1
+"Eu vi o Guilherme gritando com um homem que vestia uma farda e tinha uma grande barba ruiva. Eu não sei porque é que ele estava assim, mas ele parecia muito chateado.",O cara que vestia uma farda,ele,0
+"Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro, então ela contou pra ela a respeito.",Vanessa,ela,1
+"O Samuel teve aulas de francês com o António, porque ele estava ansioso para falar fluentemente.",Samuel,ele,1
+"João ordenou a André que se fosse embora e, uma hora depois, ele partiu.",André,ele,1
+"A Alice procurou pela sua amiga Flávia na multidão. Dado que ela sempre tem muita sorte, Alice encontrou-a rapidamente.",Flávia,ela,0
+Guilherme fez sinal ao criado e apontou para a sua taça vazia.,Guilherme,sua,1
+O Felipe estava chateado com o Vasco porque a torradeira que ele lhe tinha comprado não funcionava.,Felipe,ele,1
+João foi contratado por André para cuidar dele.,André,dele,1
+"Enquanto Mateus carregava Vitor pela longa escada em espiral, as suas pernas balançavam.",Vitor,suas,1
+"O Bruno estava jogando às cartas com António e estava muito na frente no placar. Se António não tivesse tido uma sequência de jogadas de sorte, ele teria ganhado.",Bruno,ele,1
+Eu retirei a garrafa d'água da mochila para que ela ficasse leve.,A mochila,ela,1
+"O gato estava deitado próximo ao buraco esperando pelo rato, mas ele era muito cauteloso",O gato,ele,0
+"O António não pode sair do trabalho até que o Bruno chegue para substituir-lo. Se o Bruno tivesse saído de casa na hora certa, ele já teria saído agora.",António,ele,1
+"Eu tentei fazer uma pintura de um pomar, com limões nos limoeiros, mas eles acabaram por aparecer mais com telefones públicos.",Os limões,eles,0
+A mulher estava segurando a menina contra o desejo dela.,A mulher,dela,0
+"Tínhamos planeado colocar cópias da nossa newsletter em todas as cadeiras do auditório, mas não havia o suficiente delas .",cadeiras,delas,0
+"O Samuel e a Camila estão extremamente apaixonados, mas os pais da Camila estão incomodados com isso porque eles são snobes.",Os pais da Camila,eles,1
+O Francisco é a única pessoa que ainda se lembra do meu bisavô. Ele era um homem memorável.,Meu bisavô,Ele,1
+"O Bruno estava jogando às cartas com António e estava muito na frente no placar. Se António não tivesse tido uma sequência de jogadas de sorte, ele teria ganhado.",António,ele,0
+O Guilherme acalmou o Luís porque ele estava muito transtornado.,Guilherme,ele,0
+O Rodrigo segue o exemplo do Francisco em tudo. Ele influencia-o imensamente.,Francisco,Ele,1
+O cliente entrou no banco e esfaqueou um dos caixas. Ele foi levado imediatamente para a esquadra da polícia..,O caixa,Ele,0
+Os vereadores recusaram a autorização aos manifestantes porque eles temiam a violência.,Os vereadores,eles,1
+Muitas pessoas começam a ler as crónicas do Paulo e não conseguem largar-las. Elas ficam agarradas porque o Paulo escreve muito bem.,As pessoas,Elas,1
+A Amanda deu à luz uma menina no mês passado. Ela é uma mulher encantadora.,Amanda,Ela,1
+A Gabriela bateu à porta da Vanessa mas ela não foi atendida.,Vanessa,ela,0
+Jéssica certificou-se de agradecer Vanessa por toda a ajuda que ela havia oferecido.,Vanessa,ela,1
+A Alice tentou incansavelmente impedir a sua filha de gritar na festa. Perguntámo-nos porque é que ela se comportava de forma tão estranha.,A filha da Alice,ela,1
+Kirilov cedeu a presidência a Shatov porque ele era menos popular.,Kirilov,ele,1
+"Os jornalistas entrevistaram as estrelas do novo filme. Como eles eram muito persistentes, a entrevista prolongou-se durante muito tempo.",Os jornalistas,Eles,1
+"A Beatriz falou com a Daniela, não cumprindo a sua promessa.",Beatriz,sua,1
+"A Adriana perguntou à Maria a que horas a biblioteca fechava, porque ela se tinha esquecido.",Maria,ela,0
+O Bruno pagou os estudos superiores do Fábio. Ele é muito grato.,Bruno,Ele,0
+"Durante um jogo de apanhada, Eduardo fugiu do Lucas porque ""estava com ele "".",Eduardo,ele,0
+O Bruno pagou os estudos superiores do Fábio. Ele é muito generoso.,Bruno,Ele,1
+Tenho a certeza que o meu mapa vai mostrar esse prédio; ele é muito bom.,O prédio,ele,0
+"A Adriana perguntou à Maria a que horas a biblioteca fechava, porque ela se tinha esquecido.",Adriana,ela,1
+Os vereadores recusaram a autorização aos manifestantes porque eles eram favoráveis à violência.,Os manifestantes,eles,1
+Os bombeiros chegaram depois dos polícias porque eles estavam vindo de muito longe.,Os polícias,eles,0
+"Em julho, Kamtchatka declarou guerra contra Yakutsk. Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior, eles foram derrotados em semanas.",Kamtchatka,eles,1
+"Alongando as suas costas, a mulher sorriu para a menina.",A mulher,suas,1
+A Vanessa sabe tudo sobre os problemas pessoais da Adriana porque ela é intrometida.,Vanessa,ela,1
+"Não consegui encontrar uma colher, por isso tentei usar um lápis para mexer o café. Mas acabou por ser uma má ideia, porque ele ficou cheio de grafite.",0 café,ele,1
+O Francisco tapou os olhos com os antebraços porque o vento trazia muita areia. Baixou-os quando o vento parou.,Seus olhos,os,0
+A Dra. Larissa informou Sofia que ela se tinha reformado e apresentou-lhe várias opções para continuar o seu tratamento.,A Sofia,ela,0
+"A Maria acomodou a sua filha Amanda na cama, para que ela pudesse dormir.",Maria,ela,0
+O Jorge vendeu a sua casa e comprou uma nova a alguns quilómetros de distância. Vai mudar-se dela na quinta-feira.,A velha casa,dela,0
+O André deu metade do seu prato ao João porque ele estava cheio.,João,ele,0
+Este livro introduziu Shakespeare a Goethe; ele foi uma grande influência na sua escrita.,Goethe,sua,1
+A mulher estava segurando a menina contra o desejo dela.,A menina,dela,1
+"O Marcos contou muitas mentiras sobre ele mesmo para o Pedro, e o Pedro incluiu-as no seu livro. Ele deveria ter sido mais cético.",Marcos,Ele,0
+Eu retirei a garrafa d'água da mochila para que ela ficasse leve.,A garrafa d'água,ela,0
+"O gato estava deitado próximo ao buraco esperando pelo rato, mas ele era muito cauteloso",O rato,ele,1
+O cliente entrou no banco e esfaqueou um dos caixas. Ele foi levado imediatamente para o hospital.,O caixa,Ele,1
+"Em julho, Kamtchatka declarou guerra contra Yakutsk. Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior, eles foram vitoriosos em semanas.",Yakutsk,eles,1
+"Enquanto Mateus carregava Vitor pela longa escada em espiral, as suas pernas doíam.",Mateus,suas,1
+"A Bruna não ficou zangada com a Márcia, que a tinha deixado de fora, porque ela parou e pediu desculpas.",Bruna,ela,0
+"O advogado fez uma pergunta ao acusado, mas ele estava relutante em repetir-la.",O acusado,ele,0
+"Eu enfiei uma agulha através de uma cenoura. Quando eu removi a agulha, ela deixou um buraco.",A cenoura,ela,0
+Muitas pessoas começam a ler as crónicas do Paulo e não conseguem largar-las. Elas são populares porque o Paulo escreve muito bem.,As crónicas do Paulo,Elas,1
+O camião de entregas passou rapidamente pelo autocarro escolar porque ele estava indo muito depressa.,O autocarro escolar,ele,0
+O homem levantou o menino para a sua cama.,O menino,sua,1
+A Eduarda estava muito feliz em trocar a blusa dela pela minha gabardine. Ela acha que ela fica muito bem nela.,A blusa,ela,0
+A grande bola atravessou a mesa pois ela era feita de aço.,A mesa,ela,0
+O quadro na sala de estar do Marcos mostra um carvalho. Ele está à direita da casa.,O carvalho,Ele,1
+O quadro na sala de estar do Marcos mostra um carvalho. Ele está à direita da estante de livros.,O carvalho,Ele,0
+O André deu metade do seu prato ao João porque ele estava com fome.,André,ele,0
+A mesa não vai passar pela porta de entrada porque ela é muito estreita.,A mesa,ela,0
+"O Samuel partiu as duas pernas e anda agora com muletas. Mas daqui a cerca de um mês, elas já não devem ser necessárias.",As pernas,elas,0
+Os vereadores recusaram a autorização aos manifestantes porque eles eram favoráveis à violência.,Os vereadores,eles,0
+"O Marcos contou muitas mentiras sobre ele mesmo para o Pedro, e o Pedro incluiu-as no seu livro. Ele deveria ter sido mais sincero.",Marcos,Ele,1
+"Eu estava a tentar abrir o cadeado com a chave, mas alguém havia preenchido a fechadura com pastilha elástica, e eu não conseguia inserir ela .",A pastilha elástica,ela,0
+O Francisco é a única pessoa que ainda se lembra do meu bisavô. Ele é um homem memorável.,Meu bisavô,Ele,0
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e ele de fato ficava muito melhor com outro acima dele.,O desenho da Tina,ele,1
+"O Francisco e a Alice tinham casacos muito quentes, mas eles não estavam preparados para o frio do Alasca.",Francisco e Alice,eles,1
+O João estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assobiando. Ele ficou muito incomodado.,O homem,Ele,0
+"O saco de batatas tinha sido colocado em cima do saco de farinha, portanto ele tinha que ser retirado antes.",O saco de batatas,ele,1
+"O Samuel puxou um banco para o piano, mas ele estava partido, então ele teve que ficar em pé.",O banco,ele,1
+"Se o golpista tivesse sido bem sucedido em enganar o Samuel, ele teria ganhado muito dinheiro.",Samuel,ele,0
+"O Daniel ficou no banco de trás enquanto que o André foi para a frente porque o ""Eu primeiro!"" dele foi lento.",Daniel,dele,1
+A grande bola atravessou a mesa pois ela era feita de esferovite.,A mesa,ela,1
+Eu retirei a garrafa d'água da mochila para que ela ficasse acessível.,A garrafa d'água,ela,1
+As raposas estão entrando à noite e atacam as galinhas. Elas tornaram-se muito nervosas.,As raposas,Elas,0
+"O António não pode sair do trabalho até que o Bruno chegue para substituir-lo. Se o Bruno tivesse saído de casa na hora certa, ele já estaria aqui agora.",António,ele,0
+O Gustavo pediu um favor ao Roberto mas ele teve o seu pedido recusado.,Roberto,ele,0
+A Alice tentou incansavelmente impedir a sua filha de conversar na festa. Perguntámo-nos porque é que ela se comportava de forma tão estranha.,Alice,ela,1
+"O Samuel puxou um banco para o piano, mas ele estava partido, então ele teve que cantar.",O banco,ele,0
+"Durante um jogo de apanhada, Eduardo perseguiu Lucas porque ""estava com ele "".",Eduardo,ele,1
+O João não conseguia ver o palco com o Artur à sua frente porque ele era demasiado alto.,João,ele,0
+O Pedro tem inveja do Marcelo apesar de ele ser muito bem sucedido.,Marcelo,ele,0
+A mulher estava segurando a menina contra o peito dela.,A mulher,dela,1
+A mesa não vai passar pela porta de entrada porque ela é muito estreita.,A porta de entrada,ela,1
+"A Bruna não ficou zangada com a Márcia, que a tinha deixado de fora, porque ela parou e contou até dez.",Márcia,ela,0
+Muitas pessoas começam a ler as crónicas do Paulo e não conseguem largar-las. Elas ficam agarradas porque o Paulo escreve muito bem.,As crónicas do Paulo,Elas,0
+"O saco de batatas tinha sido colocado debaixo do saco de farinha, portanto ele tinha que ser retirado antes.",O saco de batatas,ele,0
+"O Samuel e a Camila estão extremamente apaixonados, mas os pais da Camila estão incomodados com isso porque eles são snobes.",Samuel and Camila,eles,0
+"A Alice procurou pela sua amiga Flávia na multidão. Dado que ela sempre usa um turbante vermelho, Alice encontrou-a rapidamente.",Alice,ela,0
+O Gustavo pediu um favor ao Roberto mas ele recusou-se a atender o favor.,Gustavo,ele,0
+"O caminho até ao lago estava interditado, então nós não podíamos alcançar ele.",O caminho,ele,0
+As raposas estão entrando à noite e atacam as galinhas. Elas terão de morrer.,As raposas,elas,1
+A Eduarda estava muito feliz em trocar a blusa dela pela minha gabardine. Ela acha que ela fica muito bem nela.,A gabardine,ela,1
+O pai carregava o menino dormindo no seu berço.,O pai,seu,0
+A Gabriela bateu à porta da Vanessa mas ela não foi atendida.,Gabriela,ela,1
+O homem levantou o menino sobre a sua cabeça.,O menino,sua,0
+Madonna demitiu a sua treinadora porque ela dormiu com o namorado dela.,A treinadora,dela,0
+O João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele ficou muito impressionado.,João,Ele,1
+A escultura caiu da prateleira porque ela não estava bem acomodada.,A escultura,ela,1
+"O António não pode sair do trabalho até que o Bruno chegue para substituir-lo. Se o Bruno tivesse saído de casa na hora certa, ele já teria saído agora.",Bruno,ele,0
+Os polícias prenderam todos os membros do gangue. Eles estavam a tentar impedir o tráfico de droga no bairro.,Os membros do gangue,Eles,0
+A escultura caiu da prateleira porque ela não estava bem nivelada.,A escultura,ela,0
+"A Gabriela bateu à porta da Vanessa, mas ninguém respondeu. Ela tinha saído.",Vanessa,Ela,1
+"A Beatriz falou com a Daniela, não cumprindo a sua promessa.",Daniela,sua,0
+"Apesar de ambas correrem aproximadamente na mesma velocidade, a Sandra derrotou a Márcia porque ela começou muito mal.",Márcia,ela,1
+A Gabriela bateu à porta da Vanessa mas ela não atendeu.,Vanessa,ela,1
+Os polícias prenderam todos os membros do gangue. Eles estavam a tentar fazer tráfico de drogas no bairro.,Os polícias,Eles,0
+"O Vasco deu boleia ao Rafael para a escola, para que ele não tivesse de ir a pé.",Vasco,ele,0
+"Se o golpista tivesse sido bem sucedido em enganar o Samuel, ele teria perdido muito dinheiro.",Samuel,ele,1
+"O usuário mudou a sua senha ""GrWQWu8JyC"" para ""willow-towered Canopy Huntertropic wrestles"" porque ela era fácil de se esquecer.",willow-towered Canopy Huntertropic wrestles,ela,0
+"Tínhamos planeado colocar cópias da nossa newsletter em todas as cadeiras do auditório, mas havia muitas delas .",cópias da newsletter,delas,0
+"Eu enfiei uma agulha através de uma cenoura. Quando eu removi a agulha, ela deixou um buraco.",A agulha,ela,1
+"O Marcos contou muitas mentiras sobre ele mesmo para o Pedro, e o Pedro incluiu-as no seu livro. Ele deveria ter sido mais sincero.",Pedro,Ele,0
+O camião de entregas passou rapidamente pelo autocarro escolar porque ele estava indo muito devagar.,O autocarro escolar,ele,1
+O João não conseguia ver o palco com o Artur à sua frente porque ele era demasiado baixo.,João,ele,1
+As raposas estão entrando à noite e atacam as galinhas. Elas terão de morrer.,As galinhas,elas,0
+"Toda a gente adorou os biscoitos de aveia; apenas algumas pessoas gostaram do biscoito de chocolate. Para a próxima vez, devíamos fazer menos deles.",Os biscoito de chocolate,deles,1
+"A Bruna não ficou zangada com a Márcia, que a tinha deixado de fora, porque ela parou e pediu desculpas.",Márcia,ela,1
+O Rodrigo segue o exemplo do Francisco em tudo. Ele admira-o imensamente.,Rodrigo,Ele,1
+"O tio do Jorge ainda consegue derrotar ele no tênis, apesar de ele ser 30 anos mais jovem.",O tio do Jorge,ele,0
+A Sara pediu um livro emprestado à biblioteca porque ela precisa dele para um artigo no qual ela está a trabalhar. Ela escreve ele quando chega do trabalho.,O artigo,ele,1
+"Enquanto a Francisca passava por cima da Vanessa no pequeno avião, ela conseguia ver o trem de aterragem.",Francisca,ela,0
+"O Vasco deu boleia ao Rafael para a escola, para que ele não tivesse de conduzir sozinho.",Rafael,ele,0
+Eu servi o refrigerante no copo até que ele ficasse cheio.,O copo,ele,1
+"Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro, porque ela contou pra ela a respeito.",Vanessa,ela,0
+Eu retirei a garrafa d'água da mochila para que ela ficasse acessível.,A mochila,ela,0
+"A Gabriela bateu à porta da Vanessa, mas ninguém respondeu. Ela ficou desapontada.",Vanessa,Ela,0
+A escultura caiu da prateleira porque ela não estava bem nivelada.,A prateleira,ela,1
+Jéssica certificou-se de agradecer Vanessa por toda a ajuda que ela havia recebido.,Jéssica,ela,1
+O Daniel obrigou o André a parar de brincar com o pássaro ferido. Ele é muito compassivo.,André,Ele,0
+Olha! Está um tubarão a nadar mesmo debaixo daquele pato! É melhor ele fugir para um lugar seguro rápido!,O pato,ele,1
+Olha! Está um peixinho a nadar mesmo debaixo daquele pato! É melhor ele fugir para um lugar seguro rápido!,O pato,ele,0
+O Gustavo pediu um favor ao Roberto mas ele recusou-se a atender o favor.,Roberto,ele,1
+O sapo comeu o mosquito. Ele estava com fome,O mosquito,Ele,0
+O Bruno colapsou na calçada. Logo viu o Carlos a vir ajudá-lo. Ele estava muito preocupado.,Carlos,Ele,1
+O quadro na sala de estar do Marcos mostra um carvalho. Ele está à direita da casa.,O quadro,Ele,0
+"Apesar de ambas correrem aproximadamente na mesma velocidade, a Sandra derrotou a Márcia porque ela começou muito bem.",Sandra,ela,1
+O camião de entregas passou rapidamente pelo autocarro escolar porque ele estava indo muito depressa.,O camião de entregas,ele,1
+"O Bruno estava jogando às cartas com António e estava muito na frente no placar. Se António não tivesse tido uma sequência de jogadas de sorte, ele teria perdido.",Bruno,ele,0
+"O Daniel ficou no banco de trás enquanto que o André foi para a frente porque o ""Eu primeiro!"" dele foi mais rápido.",André,dele,1
+"Não consegui encontrar uma colher, por isso tentei usar um lápis para mexer o café. Mas acabou por ser uma má ideia, porque ele ficou cheio de grafite.",O lápis,ele,0
+"Na competição Loebner, os juízes não conseguiam descobrir quais participantes eram os chatbots porque eles eram muito avançados.",Os chatbots,eles,1
+"O saco de batatas tinha sido colocado debaixo do saco de farinha, portanto ele tinha que ser retirado antes.",O saco de farinha,ele,1
+"O Jackson foi fortemente influenciado por Arnold, apesar de ele ter vivido dois séculos antes.",Jackson,ele,0
+O Daniel obrigou o André a parar de brincar com o pássaro ferido. Ele é muito compassivo.,Daniel,Ele,1
+O ralo está entupido com cabelo. Ele tem que ser limpo.,O cabelo,Ele,0
+A Gabriela deu doces para a Jéssica porque ela não estava com fome.,Gabriela,ela,1
+"João prometeu a André que se ia embora e, uma hora depois, ele partiu.",João,ele,1
+"Se o golpista tivesse sido bem sucedido em enganar o Samuel, ele teria perdido muito dinheiro.",O golpista,ele,0
+"Enquanto a Francisca passava por cima da Vanessa no pequeno avião, ela conseguia ver a pista de aterragem.",Vanessa,ela,0
+"Quando Vítor deixou cair o gelado dele, o Tiago riu-se, depois o pai deu-lhe um olhar empático.",Tiago,ele,0
+O Vasco atirou a mochila para o Raimundo depois de ele chegar ao cimo das escadas.,Vasco,ele,1
+"Enquanto a Francisca passava por cima da Vanessa no pequeno avião, ela conseguia ver a pista de aterragem.",Francisca,ela,1
+As universidades estão a estudar três espécies de peixes que foram recentemente descobertas a viver no Oceano Índico. Elas começaram há dois anos.,As espécies de peixe,Elas,0
+A Gabriela deu doces para a Jéssica porque ela não estava com fome.,Jéssica,ela,0
+Eu pus a asa de borboleta sobre a mesa e ela partiu-se.,A asa de borboleta,ela,1
+O Ricardo explicou a sua teoria ao Marcos mas ele não conseguiu compreendê-la.,Ricardo,ele,0
+Kirilov cedeu a presidência a Shatov porque ele era mais popular.,Kirilov,ele,0
+"Na competição Loebner, os juízes não conseguiam descobrir quais participantes eram os chatbots porque eles eram muito avançados.",Os juízes,eles,0
+Madonna demitiu a sua treinadora porque ela dormiu com o namorado dela.,Madonna,dela,1
+"O usuário mudou a sua senha ""GrWQWu8JyC"" para ""willow-towered Canopy Huntertropic wrestles"" porque ela era fácil de se lembrar.",GrWQWu8JyC,ela,0
+"Eu estava a tentar abrir o cadeado com a chave, mas alguém havia preenchido a fechadura com pastilha elástica, e eu não conseguia inserir ela .",A chave,ela,1
+As raposas estão entrando à noite e atacam as galinhas. Elas tem de ser protegidas.,As galinhas,Elas,1
+"O Marcos contou muitas mentiras sobre ele mesmo para o Pedro, e o Pedro incluiu-as no seu livro. Ele deveria ter sido mais cético.",Pedro,Ele,1
+"Eu vi o Guilherme gritando com um homem que vestia uma farda e tinha uma grande barba ruiva. Eu não sei porque é que ele estava assim, mas ele parecia muito chateado.",Guilherme,ele,1
+"Os alunos mais velhos estavam a fazer bullying aos mais jovens, então nós protegemos eles .",Os alunos mais velhos,eles,0
+Madonna demitiu a sua treinadora porque ela não apoiava o namorado dela.,Madonna,dela,0
+"A Maria acomodou a sua filha Amanda na cama, para que ela pudesse dormir.",A filha da Maria,ela,1
+O João contratou o André para cuidar dele.,André,dele,0
+"A luz do sol tinha sido bloqueada por uma grande nuvem durante a manhã toda, mas por sorte, na hora em que o piquenique começou, ela voltou.",A luz do sol,ela,1
+Jorge pagou ao detetive depois de ele ter recebido o relatório final sobre o caso.,O detetive,ele,0
+O Bruno colapsou na calçada. Logo viu o Carlos a vir ajudá-lo. Ele estava muito doente.,Bruno,Ele,1
+"Quando os apoiantes do projeto de lei chegaram à Câmara Municipal, ficaram surpreendidos ao encontrar a sala cheia de opositores. Eles estavam em grande minoria.",Os opositores,Eles,0
+O Francisco é a única pessoa que ainda se lembra do meu bisavô. Ele era um homem memorável.,Francisco,Ele,0
+Jorge pagou ao detetive depois de ele ter recebido o relatório final sobre o caso.,Jorge,ele,1
+"Se o golpista tivesse sido bem sucedido em enganar o Samuel, ele teria ganhado muito dinheiro.",O golpista,ele,1
+O Artur chorou porque o Sebastião não queria partilhar o seu brinquedo.,Artur,seu,0
+O André deu o gameboy ao João porque era a vez dele.,André,dele,0
+O Bruno colapsou na calçada. Logo viu o Carlos a vir ajudá-lo. Ele estava muito preocupado.,Bruno,Ele,0
+"A Gabriela bateu à porta da Vanessa, mas ninguém respondeu. Ela ficou desapontada.",Gabriela,Ela,1
+Eu não consigo cortar aquela árvore com essa motosserra; ela é muito pequena.,A motosserra,ela,1
+"O Samuel tentou pintar um quadro de pastoras com ovelhas, mas elas acabaram por se parecer mais com cães.",As ovelhas,elas,1
+O Francisco tapou os olhos com os antebraços porque o vento trazia muita areia. Baixou-os quando o vento parou.,Seus antebraços,os,1
+Os arqueólogos concluíram que humanos viveram em Laputa há 20.000 anos. Eles caçavam veados nas margens do rio.,Arqueologistas,Eles,0
+A Eduarda estava muito feliz em trocar a blusa dela pela minha gabardine. Ela acha que ela fica deselegante nela.,A gabardine,ela,0
+"A Beatriz conversou com a Daniela, tirando a sua concentração.",Daniela,sua,1
+O João não conseguia ver o palco com o Artur à sua frente porque ele era demasiado alto.,Artur,ele,1
+A Eduarda estava muito feliz em trocar a blusa dela pela minha gabardine. Ela acha que ela fica deselegante nela.,A blusa,ela,1
+A escultura caiu da prateleira porque ela não estava bem acomodada.,A prateleira,ela,0
+"O Fernando visitou o túmulo de Leonardo em 1765. Nessa data, fazia cinco anos que ele tinha morrido.",Fernando,ele,0
+Eu não consigo cortar aquela árvore com essa motosserra; ela é muito pequena.,A árvore,ela,0
+"Não consegui encontrar uma colher, por isso tentei usar um lápis para mexer o café. Mas acabou por ser uma má ideia, porque ele ficou cheio de café.",O lápis,ele,1
+As universidades estão a estudar três espécies de peixes que foram recentemente descobertas a viver no Oceano Índico. Elas apareceram há dois anos atrás.,As espécies de peixe,Elas,1
+Felipe sentiu-se vingado quando o seu rival de longa data André revelou que ele era o vencedor da competição.,André,ele,0
+O Bruno pagou os estudos superiores do Fábio. Ele é muito grato.,Fábio,Ele,1
+"Apesar de ambas correrem aproximadamente na mesma velocidade, a Sandra derrotou a Márcia porque ela começou muito mal.",Sandra,ela,0
+Tenho a certeza que o meu mapa vai mostrar esse prédio; ele é muito famoso.,O prédio,ele,1
+A grande bola atravessou a mesa pois ela era feita de esferovite.,A grande bola,ela,0
+A Vanessa sabe tudo sobre os problemas pessoais da Adriana porque ela é indiscreta.,Vanessa,ela,0
+Os arqueólogos concluíram que humanos viveram em Laputa há 20.000 anos. Eles procuraram por evidências nas margens do rio.,Humanos pré-históricos,Eles,0
+"O meu encontro começava às 4:00 e eu precisava apanhar o comboio às 4:30, portanto não havia muito tempo. Felizmente, ele estava atrasado, por isso tudo se resolveu.",O meu encontro,ele,0
+A Sara pediu um livro emprestado à biblioteca porque ela precisa dele para um artigo no qual ela está a trabalhar. Ela escreve ele quando chega do trabalho.,O livro,ele,0
+"Francisco deveria ter ligado a máquina de lavar louça, mas ele adiou, porque queria assistir TV. Por fim o programa estava chato, então ele mudou de ideia e desligou ela.",A TV,ela,1
+"Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro, porque ela contou pra ela a respeito.",Adriana,ela,1
+"Os pais da Patrícia chegaram a casa e encontraram-na a ter relações sexuais com o seu namorado, Paulo. Eles ficaram furiosos com isso.",Os pais da Patrícia,Eles,1
+"O Francisco ficou a ver televisão enquanto o Gabriel foi fazer as compras. Passada uma hora, ele levantou-se.",Gabriel,ele,0
+"A luz do sol tinha sido bloqueada por uma grande nuvem durante a manhã toda, mas por sorte, na hora em que o piquenique começou, ela voltou.",A nuvem,ela,0
+Muitas pessoas começam a ler as crónicas do Paulo e não conseguem largar-las. Elas são populares porque o Paulo escreve muito bem.,As pessoas,Elas,0
+O João estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assobiando. Ele era muito irritante.,João,Ele,0
+"Os jornalistas entrevistaram as estrelas do novo filme. Como eles eram muito cooperantes, a entrevista prolongou-se durante muito tempo.",Os jornalistas,Eles,0
+"O Fernando visitou o túmulo de Leonardo em 1765. Nessa data, fazia cinco anos que ele tinha morrido.",Leonardo,ele,1
+"O meu encontro começava às 4:00 e eu precisava apanhar o comboio às 4:30, portanto não havia muito tempo. Felizmente, ele estava atrasado, por isso tudo se resolveu.",O comboio,ele,1
+A Maria pegou na sua flauta e tocou uma das suas peças favoritas. Ela ama ela desde criança.,A flauta,ela,0
+"Durante um jogo de apanhada, Eduardo perseguiu Lucas porque ""estava com ele "".",Lucas,ele,0
+Eu pus o bolo no frigorífico. Ele tem muita manteiga.,A torta,Ele,1
+"Gabriel conseguiu bilhetes de graça para a peça, mas ele deu-los ao Manuel, porque ele não estava particularmente interessado em assistir a ela.",Gabriel,ele,1
+O homem não conseguia erguer o seu filho porque ele era muito fraco.,O filho,ele,0
+A Ana foi muito pior do que a sua amiga Luciana na prova porque ela tinha estudado muito.,Luciana,ela,1
+O Pedro tem inveja do Marcelo apesar de ele ser muito bem sucedido.,Pedro,ele,1
+"O advogado fez uma pergunta ao acusado, mas ele estava relutante em responder-la.",0 acusado,ele,1
+"João ordenou a André que se fosse embora e, uma hora depois, ele partiu.",João,ele,0
+"Apesar de ambas correrem aproximadamente na mesma velocidade, a Sandra derrotou a Márcia porque ela começou muito bem.",Márcia,ela,0
+O Rodrigo segue o exemplo do Francisco em tudo. Ele admira-o imensamente.,Francisco,Ele,0
+O Pedro tem inveja do Marcelo porque ele é muito bem sucedido.,Marcelo,ele,1
+O pai carregava o menino dormindo ao seu colo,O menino,seu,0
+A Alice tentou incansavelmente impedir a sua filha de conversar na festa. Perguntámo-nos porque é que ela se comportava de forma tão estranha.,A filha da Alice,ela,0
+O Daniel obrigou o André a parar de brincar com o pássaro ferido. Ele é muito cruel.,Daniel,Ele,0
+"A Maria acomodou a sua filha Amanda na cama, para que ela pudesse trabalhar.",A filha da Maria,ela,0
+O João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele ficou muito impressionado.,O malabarista,Ele,0
+O cliente entrou no banco e esfaqueou um dos caixas. Ele foi levado imediatamente para o hospital.,O cliente,Ele,0
+"O Bruno pagou os estudos superiores do Fábio, mas agora o Fábio age como se isso nunca tivesse acontecido. Ele é muito ingrato.",Fábio,Ele,1
+A grande bola atravessou a mesa pois ela era feita de aço.,A grande bola,ela,1
+O homem levantou o menino para a sua cama.,O homem,sua,0
+"Eu vi o Guilherme gritando com um homem que vestia uma farda e tinha uma grande barba ruiva. Eu não sei quem ele era, mas ele parecia muito chateado.",Guilherme,ele,0
+A Gabriela deu doces para a Jéssica porque ela estava com fome.,Jéssica,ela,1
+Eu servi o refrigerante no copo até que ele ficasse vazio.,O copo,ele,0
+"O saco de batatas tinha sido colocado em cima do saco de farinha, portanto ele tinha que ser retirado antes.",O saco de farinha,ele,0
+"Os alunos mais velhos estavam a fazer bullying aos mais jovens, então nós punimos eles .",Os alunos mais velhos,eles,1
+"Alongando as suas costas, a mulher sorriu para a menina.",A menina,suas,0
+"Paulo tentou ligar para o Gabriel, mas ele não foi bem sucedido.",Paulo,ele,1
+"O usuário mudou a sua senha ""GrWQWu8JyC"" para ""willow-towered Canopy Huntertropic wrestles"" porque ela era fácil de se esquecer.",GrWQWu8JyC,ela,1
+"Gabriel conseguiu bilhetes de graça para a peça, mas ele deu-los ao Manuel, mesmo ele estando particularmente interessado em assistir a ela.",Gabriel,ele,1
+A Amanda deu à luz uma menina no mês passado. Ela é uma bebé encantadora.,A filha da Amanda,Ela,1
+O Felipe estava chateado com o Vasco porque a torradeira que ele lhe tinha vendido não funcionava,Felipe,ele,0
+Madonna demitiu a sua treinadora porque ela não apoiava o namorado dela.,A treinadora,dela,1
+"Durante a apresentação a céu aberto, começou a chover, e ela continuou até às 10.",A apresentação,ela,0
+"O usuário mudou a sua senha ""GrWQWu8JyC"" para ""willow-towered Canopy Huntertropic wrestles"" porque ela era fácil de se lembrar.",willow-towered Canopy Huntertropic wrestles,ela,1
+"O cão perseguiu o gato, que correu até a árvore. Ele esperou lá em baixo.",O gato,Ele,0
+A Alice tentou incansavelmente impedir a sua filha de gritar na festa. Perguntámo-nos porque é que ela se comportava de forma tão estranha.,Alice,ela,0
+"Nós fomos para a lagoa, porque um tubarão havia sido avistado na praia, então ela era um lugar perigoso para nadar.",A praia,ela,1
+Madonna demitiu a sua treinadora porque ela não apoiava o namorado dela.,Madonna,ela,1
+"Toda a gente adorou os biscoitos de aveia; apenas algumas pessoas gostaram do biscoito de chocolate. Para a próxima vez, devíamos fazer menos deles.",Os biscoitos de aveia,deles,0
+O Vasco atirou a mochila para o Raimundo depois de ele chegar ao fundo das escadas.,Vasco,ele,0
+O Ricardo explicou a sua teoria ao Marcos mas ele não conseguiu compreendê-la.,Marcos,ele,1
+"Eu tentei fazer uma pintura de um pomar, com limões nos limoeiros, mas eles acabaram por aparecer mais com telefones públicos.",Os limoeiros,eles,1
+Os bombeiros chegaram antes dos polícias porque eles estavam vindo de muito longe.,Os polícias,eles,1
+"O meu encontro começava às 4:00 e eu precisava apanhar o comboio às 4:30, portanto não havia muito tempo. Felizmente, ele foi breve, por isso tudo se resolveu.",O meu encontro,ele,1
+O Gustavo pediu um favor ao Roberto mas ele teve o seu pedido recusado.,Gustavo,ele,1
+Os vereadores recusaram a autorização aos manifestantes porque eles temiam a violência.,Os manifestantes,eles,0
+"O Jackson foi fortemente influenciado por Arnold, apesar de ele ter vivido dois séculos mais tarde.",Arnold,ele,0
+Os arqueólogos concluíram que humanos viveram em Laputa há 20.000 anos. Eles procuraram por evidências nas margens do rio.,Arqueologistas,Eles,1
+"Os alunos mais velhos estavam a fazer bullying aos mais jovens, então nós punimos eles .",Os alunos mais jovens,eles,0
+O homem não conseguia erguer o seu filho porque ele era muito pesado.,O filho,ele,1
+A mesa não vai passar pela porta de entrada porque ela é muito larga.,A mesa,ela,1
+O Jorge vendeu a sua casa e comprou uma nova a alguns quilómetros de distância. Vai mudar-se dela na quinta-feira.,A nova casa,dela,0
+"Os jornalistas entrevistaram as estrelas do novo filme. Como eles eram muito persistentes, a entrevista prolongou-se durante muito tempo.",Os astros,Eles,0
+A mulher estava segurando a menina contra o peito dela.,A menina,dela,0
+A medalha não cabe na maleta porque ela é muito pequena.,a medalha,ela,0
+Eu pus o bolo no frigorífico. Ele tem muitas sobras.,A torta,Ele,0
+"O Bruno pagou os estudos superiores do Fábio, mas agora o Fábio age como se isso nunca tivesse acontecido. Ele é muito ingrato.",Bruno,Ele,0
+"O Samuel tentou pintar um quadro de pastoras com ovelhas, mas elas acabaram por se parecer mais com jogadores de golfe.",As pastoras,elas,1
+"Durante a apresentação a céu aberto, começou a chover, e ela continuou até às 10.",A chuva,ela,1
