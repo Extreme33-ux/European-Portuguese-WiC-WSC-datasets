@@ -4,18 +4,26 @@ Repository that contains the European Portuguese variants of the WiC and WSC dat
 # Word-in-Context (WiC)
  The **Word-in-Context (WiC)** task tests a computer’s ability to understand the meaning of a word in different sentences. The goal is to decide if the same word in two different sentences has the same meaning or not.  This dataset was obtained through the following sources/methods:
 
-- https://github.com/marcospln/homonymy_acl21/tree/main
-- https://hal.science/hal-03109961
+- https://github.com/marcospln/homonymy_acl21/tree/main [1]
+- https://hal.science/hal-03109961 [2]
 - Dataset Augmentation 
 
  
 # Winograd Schema Challenge (WSC)
  The **Winograd Schema Challenge (WSC)** is a task that tests a computer's ability to understand language by determining what a pronoun refers to in a sentence. This dataset was obtained through the following source:
 
-https://github.com/gabimelo/portuguese_wsc
+https://github.com/gabimelo/portuguese_wsc [3]
 
 which was then translated manually into the European Portuguese variant.
 
-# References for the sources
-
-Rocha, P. A., & Santos, D. (2000). CETEMPúblico: Um corpus de grandes dimensões de linguagem jornalística portuguesa. quot; In Maria das Graças Volpe Nunes (ed) V Encontro para o processamento computacional da língua portuguesa escrita e falada (PROPOR 2000)(Atibaia SP 19-22 de Novembro de 2000) São Paulo: ICMC/USP.
+# References
+[1]M. Garcia, “Exploring the representation of word meanings in context: A case study on homonymy
+and synonymy,” in Proceedings of the 59th Annual Meeting of the Association for Computational
+Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume
+1: Long Papers). Association for Computational Linguistics, 2021, pp. 3625–3640. [Online].
+Available: https://aclanthology.org/2021.acl-long.281
+[2] J. Baptista and N. Mamede, Dicion ´ario gramatical de verbos do portugu ˆes, 2020. [Online].
+Available: https://hal.science/hal-03109961
+[3] G. Melo, V. Imaizumi, and F. Cozman, “Winograd schemas in portuguese,” in Anais do XVI
+Encontro Nacional de Intelig ˆencia Artificial e Computacional. Porto Alegre, RS, Brasil: SBC,
+2019, pp. 787–798. [Online]. Available: https://sol.sbc.org.br/index.php/eniac/article/view/9334
