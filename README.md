@@ -4,6 +4,8 @@ Repository that contains the European Portuguese variants of the WiC and WSC dat
 # Word-in-Context (WiC)
  The **Word-in-Context (WiC)** task tests a computer’s ability to understand the meaning of a word in different sentences. The goal is to decide if the same word in two different sentences has the same meaning or not.  This dataset was obtained through the following sources:
 
+- https://github.com/marcospln/homonymy_acl21/tree/main
+- https://hal.science/hal-03109961
 
  
 # Winograd Schema Challenge (WSC)
