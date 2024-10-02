@@ -1,4 +1,4 @@
-# European-Portuguese-WiC-WSC-datasets
+# European Portuguese WiC and WSC datasets
 Repository that contains the European Portuguese variants of the WiC and WSC datasets, developed under the thesis "Dissertation: Revisiting natural language processing tasks for European Portuguese: taking advantage of large language models"
 
 # Word-in-Context (WiC)
