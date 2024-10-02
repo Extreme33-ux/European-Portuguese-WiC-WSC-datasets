@@ -31,7 +31,7 @@ Available: https://hal.science/hal-03109961
 
 <a id="3">[3]</a>
 G. Melo, V. Imaizumi, and F. Cozman, “Winograd schemas in portuguese,” in Anais do XVI
-Encontro Nacional de Intelig ˆencia Artificial e Computacional. Porto Alegre, RS, Brasil: SBC,
+Encontro Nacional de Inteligência Artificial e Computacional. Porto Alegre, RS, Brasil: SBC,
 2019, pp. 787–798. [Online]. Available: https://sol.sbc.org.br/index.php/eniac/article/view/9334
 
 ## Licenses
