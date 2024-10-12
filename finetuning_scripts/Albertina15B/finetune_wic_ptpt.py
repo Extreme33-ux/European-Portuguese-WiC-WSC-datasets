@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 
 dataset = load_from_disk("~/tese/datasets/WiC")      # use this if using dataset from a given directory
-checkpoint = "PORTULAN/albertina-1b5-portuguese-ptbr-encoder"
+checkpoint = "PORTULAN/albertina-1b5-portuguese-ptpt-encoder"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"  # Change this depending on the GPU to use
 
 model = AutoModelForSequenceClassification.from_pretrained(checkpoint, num_labels=2)
@@ -45,7 +45,7 @@ def tokenize_function(example):
     return tokenized_input
 
 def compute_metrics(eval_preds):
-    metric = evaluate.load('glue', 'mrpc')
+    metric = evaluate.load('superglue', 'wic')    #note that this will not return F1; use ('glue', 'mrpc) for an easy way to get accuracy and f1
     logits, labels = eval_preds
     predictions = np.argmax(logits, axis=-1)
     return metric.compute(predictions=predictions, references=labels)
@@ -54,10 +54,10 @@ tokenized_datasets = dataset.map(tokenize_function, batched=True)
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
 training_args = TrainingArguments(
-    output_dir ='albertina-ptpt-900M',          # output directory
+    output_dir ='albertina-ptpt-1.5B',          # output directory
     run_name = "test-trainer",                  # name of the training run
     num_train_epochs = 10,                      # total number of training epochs
-    logging_dir = './logs/albertina-ptbr-900M', # directory for storing logs
+    logging_dir = './logs/albertina-ptpt-1.5B', # directory for storing logs
     evaluation_strategy = "epoch",              # evaluation after each epoch
     save_strategy = "epoch",                    # save checkpoint at end of epoch
     save_total_limit = 2,                       # limit the total amount of checkpoints
