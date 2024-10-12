@@ -77,10 +77,10 @@ tokenized_datasets = dataset.map(tokenize_function, batched=True)
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
 training_args = TrainingArguments(
-    output_dir ='albertina-ptbr-900M',          # output directory
+    output_dir ='gervasio_rte',          # output directory
     run_name = "test-trainer",                  # name of the training run
     num_train_epochs = 10,                      # total number of training epochs
-    #logging_dir = './logs/albertina-ptbr-900M', # directory for storing logs
+    logging_dir = './logs/gervasio_rte', # directory for storing logs
     evaluation_strategy = "epoch",              # evaluation after each epoch
     save_strategy = "epoch",                    # save checkpoint at end of epoch
     save_total_limit = 2,                       # limit the total amount of checkpoints
